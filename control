@@ -1,0 +1,9 @@
+Package: netskao.iconbundlid
+Name: IconBundleID
+Depends: firmware (>= 13.0), mobilesubstrate
+Version: 1.0-1
+Architecture: iphoneos-arm
+Description: 在桌面长按图标唤出菜单，快捷拷贝该应用BundleID
+Maintainer: Nets <admin@initnil.com>
+Author: Netskao <admin@initnil.com>
+Section: Netskao-Tweaks
